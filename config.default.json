@@ -1,0 +1,12 @@
+{
+    "mssql": {
+        "server": ".\\SQLEXPRESS01",
+        "database": "TRBOnetWatch"
+    },
+    "influxdb": {
+        "url": "http://10.0.0.1:8086",
+        "password": "password",
+        "username": "trbo",
+        "database": "trbonetwatch"
+    }
+}
